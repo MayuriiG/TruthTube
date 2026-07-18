@@ -9,16 +9,16 @@ Pod::Spec.new do |spec|
   associated with potentially fake, clickbait, or AI-generated content.
   DESC
 
-  spec.homepage     = "https://github.com/MayuriiG/TruthTube-simple-and-directly-related-to-YouTube-content-verification"
+  spec.homepage = "https://github.com/MayuriiG/TruthTube"
 
-  spec.license      = { :type => "MIT" }
+  spec.license = { :type => "MIT" }
 
-  spec.author       = { "MayuriiG" => "Mayuriig10@outlook.com" }
+  spec.author = { "MayuriiG" => "Mayuriig10@outlook.com" }
 
-  spec.source       = {
-    :git => "https://github.com/MayuriiG/TruthTube-simple-and-directly-related-to-YouTube-content-verification.git",
-    :tag => "v#{spec.version}"
-  }
+  spec.source = {
+  :git => "https://github.com/MayuriiG/TruthTube.git",
+  :tag => "v#{spec.version}"
+}
 
   spec.platform     = :ios, "15.0"
   spec.swift_version = "5.0"
