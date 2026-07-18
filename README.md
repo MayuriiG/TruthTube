@@ -35,7 +35,7 @@ https://youtu.be/your-demo-video
 ### CocoaPods
 
 ```ruby
-pod 'TruthTubeSDK', '~> 1.0.3'
+pod 'TruthTubeSDK', '~> 1.0.4'
 ```
 
 ### Import
@@ -61,6 +61,9 @@ Recommendation: Verify before sharing.
 
 ---
 
-## License
+📱 Requirements
+iOS 15.0+
+Swift 5.0+
+📄 License
 
-MIT
+TruthTubeSDK is available under the MIT License.
